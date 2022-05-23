@@ -2,7 +2,7 @@
 ## Bùi Thị Hương Giang - 21020308
 ### 1.Hướng dẫn cài đặt
 Lưu ý: sử dụng file project của Visual studio 2022.
-- Tải project [tại đây]()
+- Tải project [tại đây](https://github.com/giangui2k3/Dino/archive/refs/heads/main.zip)
 - Giải nén file vừa tải
 - Chạy chương trình:
     + Cách 1: Ấn đúp chuột vào file Dino.exe trong thư mục Debug.
@@ -26,22 +26,21 @@ Lưu ý: sử dụng file project của Visual studio 2022.
 - Hiệu ứng âm thanh: khi nhảy, khi chết, nhạc nền khi chạy.
 - Các chức năng chơi, menu, tương tác với chuột và bàn phím.
 - Hiển thị điểm số (0,5s = 1 điểm)
-- Video demo tại đây [ Tại đây ]()
+- Video demo tại đây [ Tại đây ](https://youtu.be/DxrU01qHjaA)
 ### 4. Các kỹ thuật lập trình được sử dụng trong chương trình.
 - Kỹ thuật lập trình đồ họa, âm thanh bằng SDL
 - Kỹ thuật lập trình hướng đối tượng.
 - Kỹ thuật tách file
 - Con trỏ, mảng, cấu trúc, lớp, sinh số ngẫu nhiên
-- Xử lý va chạm,vụ nổ,...
+- Xử lý va chạm,vụ nổ, tăng tốc (10s 1 lần)...
 ### 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình.
 a)
 ### 6. Các nguồn tài liệu tham khảo
-- Các câu lệnh trong SDL: https://www.libsdl.org/
+- Các câu lệnh trong SDL: https://www.libsdl.org/ , https://lazyfoo.net/tutorials/SDL/
 
 - Âm thanh game: https://freesound.org/
 
 - Hình ảnh (open source) :
-
 https://www.pngwing.com/
 https://itch.io/
 https://phattrienphanmem123az.com/ZZZz
