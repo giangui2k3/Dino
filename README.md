@@ -34,7 +34,8 @@ Lưu ý: sử dụng file project của Visual studio 2022.
 - Con trỏ, mảng, cấu trúc, lớp, sinh số ngẫu nhiên
 - Xử lý va chạm,vụ nổ, tăng tốc (10s 1 lần)...
 ### 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình.
-a)
+- hướng phát triển sau này có thể nâng level tốc độ, phát triển thêm chơi lâu sẽ có ngày và đêm, chọn lựa màu sắc khủng long, tạo tài khoản mua khủng long đẹp hơn.
+- điều tâm đắc là học đc kĩ năng làm game, tự làm được game đơn giản, học được nhiều kiến thức mới.
 ### 6. Các nguồn tài liệu tham khảo
 - Các câu lệnh trong SDL: https://www.libsdl.org/ , https://lazyfoo.net/tutorials/SDL/
 
